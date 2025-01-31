@@ -1,7 +1,5 @@
 # [Portfolio Preview](https://abdelrahmanadel-fci.github.io/Portfolio/)
 
-## Abdelrahman Portfolio
-
 ### Responsive Portfolio Website
 
 - Responsive Portfolio Website Design Using HTML CSS & JavaScript
