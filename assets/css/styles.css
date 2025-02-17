@@ -535,6 +535,7 @@ svg {
 
 .contact__form {
   position: relative;
+  justify-content: center;
 }
 
 .contact__input {
