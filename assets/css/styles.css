@@ -675,7 +675,6 @@ webkit ::-webkit-scrollbar-thumb:hover {
   }
   .contact__container {
     justify-content: center;
-    justify-self: center;
   }
 }
 
