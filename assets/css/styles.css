@@ -660,7 +660,7 @@ webkit ::-webkit-scrollbar-thumb:hover {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 390px) {
   .container {
     margin-inline: 1rem;
   }
@@ -672,6 +672,9 @@ webkit ::-webkit-scrollbar-thumb:hover {
 
   .services__card {
     padding-block: 1.5rem;
+  }
+  .contact__container {
+    justify-self: center;
   }
 }
 
